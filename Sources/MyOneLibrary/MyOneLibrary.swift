@@ -3,4 +3,12 @@ public struct MyOneLibrary {
 
     public init() {
     }
+    public static func sayHello() {
+        print("sayHello")
+    }
+    
+    public static func twoHello() {
+        print("sayTwoHello")
+    }
+    
 }
